@@ -1,8 +1,8 @@
 
  
  # EIGENVALUES-AND-EIGENVECTORS
- ~~~
-
+ 
+~~~
 ## Aim:
 To write a python program to find the Eigenvalues and Eigen Vectors
 ## Equipment’s required:
@@ -15,6 +15,8 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 ### Step 4:End the program
 
 ## Program:
+
+
 #Program to find the eigen values and eigen vectors.
 #Developed by:HEMALATHA V
 #RegisterNumber:212225230099
@@ -30,6 +32,6 @@ print("Eigen values are {} and Eigen Vectors are {}".format(eig_values,eig_vecto
 
 
 
-
+Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
 ~~~
