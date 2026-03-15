@@ -2,7 +2,6 @@
  
  # EIGENVALUES-AND-EIGENVECTORS
  
-~~~
 ## Aim:
 To write a python program to find the Eigenvalues and Eigen Vectors
 ## Equipment’s required:
@@ -34,4 +33,3 @@ print("Eigen values are {} and Eigen Vectors are {}".format(eig_values,eig_vecto
 
 Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
-~~~
